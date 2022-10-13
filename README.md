@@ -3,7 +3,7 @@
 - 🔭 I’ve recently completed my Masters in computer science👩🏻‍💻
 - 🌱 I’m currently gaining skills in Artificial Intelligence.
 - 👯 I’m looking for new opportunities to enter in AI/ML sector.
-- 📫 How to reach me: [Email](sahildahake1999@gmail.com)
+- 📫 How to reach me: (sahildahake1999@gmail.com)
 
 
 <br />
