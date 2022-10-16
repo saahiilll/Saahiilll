@@ -1,4 +1,4 @@
--Hello Everyone, I'm Sahil 👋
+  👋 Hello Everyone, I'm Sahil👋
 
 - 🔭 I’ve recently completed my Masters in computer science👩🏻‍💻
 - 🌱 I’m currently gaining skills in Artificial Intelligence.
