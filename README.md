@@ -1,6 +1,6 @@
   👋 Hello Everyone, I'm Sahil👋
 
-- 🔭 I’ve recently completed my Masters in computer science👩🏻‍💻
+- 🔭 I’ve recently completed my Masters in Computer Science👩🏻‍💻
 - 🌱 I’m currently gaining skills in Artificial Intelligence.
 - 👯 I’m looking for new opportunities to enter in AI/ML sector.
 - 📫 How to reach me: (sahildahake1999@gmail.com)
