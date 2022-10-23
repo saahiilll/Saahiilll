@@ -25,13 +25,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akshay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saahiilll&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saahiilll&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahiilll&layout=compact&theme=tokyonight" />
+<img align="left" alt="Sahil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahiilll&layout=compact&theme=tokyonight" />
 
 </details>
