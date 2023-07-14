@@ -1,8 +1,8 @@
   👋 Hello Everyone, I'm Sahil👋
 
 - 🔭 I’ve recently completed my Masters in Computer Science👩🏻‍💻
-- 🌱 I’m currently gaining skills in DevOps And Cloud Computing.
-- 👯 I’m looking for new opportunities to enter in Cloud Domain.
+- 🌱 I’m currently gaining skills in DevOps And Security Testing.
+- 👯 I’m looking for new opportunities to enter in Cloud And Security Domain.
 - 📫 How to reach me: (sahildahake1999@gmail.com)
 
 
