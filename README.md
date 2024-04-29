@@ -1,6 +1,6 @@
   👋 Hello Everyone, I'm Sahil👋
 
-- 🔭 I’ve completed my Masters in Computer Science👩🏻‍💻
+- 🔭 I’ve persued Masters in Computer Science👩🏻‍💻
 - 🌱 I’m currently gaining skills in DevOps And Cloud Computing.
 - 👯 I’m looking for new opportunities in Cloud And DevOps Domain.
 - 📫 How to reach me: (sahildahake1999@gmail.com)
